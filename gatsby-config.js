@@ -6,7 +6,7 @@ module.exports = {
       summary: `who lives and works in Chengdu writing boring things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `gatsbystarterblog05558.gatsbyjs.io/`,
+    siteUrl: `https://gatsbystarterblog05558.gtsb.io/`,
     social: {
       // twitter: `kylemathews`,
     },
